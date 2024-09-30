@@ -47,6 +47,8 @@ export default function Page() {
 
     
     return (
+
+        // needs pet name
     <div className={styles.page}>
         <h1>Pet Page</h1>
         <Image

@@ -3,12 +3,13 @@
   --foreground: #171717;
 }
 
-@media (prefers-color-scheme: dark) {
+/* may need to change the pictures to be white or some other color at night*/
+/* @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
   }
-}
+} */
 
 html,
 body {
